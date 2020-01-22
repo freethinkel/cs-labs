@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/freethinkel/.dotnet/store/|arch|/|tfm|",
+      "/Users/freethinkel/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+/Users/freethinkel/projects/development/c#/labs/lab2/obj/Debug/netcoreapp3.1/lab2.csprojAssemblyReference.cache
+/Users/freethinkel/projects/development/c#/labs/lab2/obj/Debug/netcoreapp3.1/lab2.AssemblyInfoInputs.cache
+/Users/freethinkel/projects/development/c#/labs/lab2/obj/Debug/netcoreapp3.1/lab2.AssemblyInfo.cs
+/Users/freethinkel/projects/development/c#/labs/lab2/bin/Debug/netcoreapp3.1/lab2
+/Users/freethinkel/projects/development/c#/labs/lab2/bin/Debug/netcoreapp3.1/lab2.deps.json
+/Users/freethinkel/projects/development/c#/labs/lab2/bin/Debug/netcoreapp3.1/lab2.runtimeconfig.json
+/Users/freethinkel/projects/development/c#/labs/lab2/bin/Debug/netcoreapp3.1/lab2.runtimeconfig.dev.json
+/Users/freethinkel/projects/development/c#/labs/lab2/bin/Debug/netcoreapp3.1/lab2.dll
+/Users/freethinkel/projects/development/c#/labs/lab2/bin/Debug/netcoreapp3.1/lab2.pdb
+/Users/freethinkel/projects/development/c#/labs/lab2/obj/Debug/netcoreapp3.1/lab2.dll
+/Users/freethinkel/projects/development/c#/labs/lab2/obj/Debug/netcoreapp3.1/lab2.pdb
